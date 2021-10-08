@@ -11,7 +11,7 @@ For more information about these cards, please check the [FAQ](https://www.carta
 - [Available features](#available-features)
 - [Installation requirements](#installation-requirements)
 - [Installation](#installation)
-    - [Allowing unknown sources in Android 7 or lower]
+    - [Allowing unknown sources in Android 7 or lower](#allowing-unknown-sources-in-android-7-or-lower)
     - [Allowing unknown sources in Android 8 or higher](#allowing-unknown-sources-in-android-8-or-higher)
     - [Installing the app](#Installing-the-app)
 - [License](#license)
