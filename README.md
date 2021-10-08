@@ -41,7 +41,7 @@ The exact name of the settings entry may vary from device to device, but the ove
 
 ### Allowing unknown sources in Android 8 or higher
 
-Just donwload the app [prize-card-checker.apk](https://github.com/franciscommcunha/android-prize-card-checker-app/blob/main/prize-card-checker.apk)
+Just download the app [prize-card-checker.apk](https://github.com/franciscommcunha/android-prize-card-checker-app/blob/main/prize-card-checker.apk)
 
 ### Installing the app
 
