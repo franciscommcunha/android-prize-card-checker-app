@@ -1,7 +1,7 @@
 # Android Prize Card Checker App
 
 `Prize Card Checker` is an unofficial Android app for the Sonae pre-paid Prize cards. It allows you to manage the balance of your current cards, verify the portuguese districts where they can be used, so as the available shopping centers and respective stores, where you can purchase items using them. 
-For more information about these cards, please check the [FAQ](https://www.cartaopresenteprize.pt/faq.php?lang=1) of this cards.
+For more information about these cards, please check the [FAQ](https://www.cartaopresenteprize.pt/faq.php?lang=1) of these cards.
 
 
 ![prize-card-checker-preview](https://user-images.githubusercontent.com/12798915/136578881-42e3fab4-9927-4c35-b58d-bd384dd675e5.png)
@@ -48,7 +48,7 @@ Just download the app [prize-card-checker.apk](https://github.com/franciscommcun
 If your device is an Android 7 or lower, with your file manager, navigate to the place where the file was trasnferred and press it to install.
 
 If your device is an Android 8 or higher, then press the download notification or navigate to the place where the file was transferred. 
-Then, you willll then be prompted to allow the permission. Tap "Settings," then enable the switch next to "Allow from this source". From there, hit your back button, then you can resume installation. 
+Then, you will then be prompted to allow the permission. Tap "Settings," then enable the switch next to "Allow from this source". From there, hit your back button, then you can resume installation. 
 
 If you need any extra help, please refer to this [page](https://android.gadgethacks.com/how-to/android-101-sideload-apps-by-enabling-unknown-sources-install-unknown-apps-0161947/)
 
